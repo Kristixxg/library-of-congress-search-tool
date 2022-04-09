@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+} 
+
+.container {
+    width: 50%;
+    margin: 25% auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#form-header {
+text-align: center;
+}
+
+form label, input, select, input {
+ margin-top: 20px;
+}
